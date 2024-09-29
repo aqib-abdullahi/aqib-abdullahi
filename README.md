@@ -1,4 +1,4 @@
-<h2 align="left">Aqib Iliyasu Abdullahi</h2>
+<h1 align="left">Aqib Iliyasu Abdullahi</h1>
 <p align="center">
   <em>A passionate developer dedicated to honing my skills and delivering impactful projects. Focused on innovation and excellence in every endeavor.</em>
 </p>
@@ -18,10 +18,13 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aqib-abdullahi&&style=flat-square" align="center"/>
+  
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aqib-abdullahi&show_icons=true&count_private=true&hide_border=true" align="center" />
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aqib-abdullahi&theme=dark&background=000000)](https://git.io/streak-stats)
+  
 </div>
