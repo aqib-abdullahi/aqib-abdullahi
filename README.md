@@ -2,15 +2,3 @@
 <p align="center">
   <em>Absorbing concepts. Engineering stuff.</em>
 </p>
-<div align="center">
-  
-</div>
-
-<h2 align="center">Statistics</h2>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aqib-abdullahi&&style=flat-square" align="center"/>
-  
-</div>
-
-<br />
